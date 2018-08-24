@@ -7,4 +7,7 @@ These is just general knowledge past down from previous organizers from our comm
 ## Table Of Contents
 
 - [Running Tournaments](./tourney.md)
-- [Dailies/Weeklies Processes](#heading)
+- [Venue Space & Planning](./planning.md)
+- [Dailies/Weeklies Processes](./weeklies.md)
+- [Payouts](./payouts.md)
+- [Ruleset](./ruleset.md)

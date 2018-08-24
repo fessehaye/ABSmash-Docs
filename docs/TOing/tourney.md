@@ -46,3 +46,9 @@ Top 32 or 16 bracket from the top 2 of each pool is what usually happens.  Gradu
 The worst event to run every tournament.  You need to grab 4 people out of their other events to play their match, usually causing their other matches to get held up.  Being able to schedule doubles well is the sign of how well a TO can schedule things on the fly.  Preparing doubles ahead of time before the tournament starts will only get you up a couple waves, but after that, the top players will delay things all the same.
 
 Do not plan doubles the same as a regular DE bracket.  You will be hit HARD with the delays and the entire schedule will fall out of place.  Plan for a significant amount of downtime and delays.  An 8-man doubles bracket calculates out to be roughly 2 hours to play, but it’ll take more like 4.  Doubles is very, very unpredictable.
+
+### Number of pools 
+
+If you look back at many tournaments out there, you would notice a lot of the numbers are a power of 2.  The number of pools is an obvious one, you would have 4, 8, 16, 32, or 64 pools and never any amount in the middle.  If you have a number outside of this pattern, the promotion of players out of pools would be uneven, forcing a bias that shouldn’t exist (i.e. some 2nd seeds wouldn’t be considered the same as another 2nd seed and get shafted).
+
+Always have a power of 2 number of pools.
