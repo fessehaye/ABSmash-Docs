@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Edmonton Smash Docs',
+    title: 'Edmonton Smash Resources',
     description: 'Shared Resources for all TOing and community affairs',
     themeConfig: {
         nav: [
