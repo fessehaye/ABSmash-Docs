@@ -1,5 +1,34 @@
 # Payouts
 
+[[toc]]
+
+## Intro 
+
+These are just recommended payout spreads. You can adjust these examples to fit your needs but only if you know what you are doing. 
+A good rule of thumb is that the lowest paided out placement should at least get their money back.
+
+Example:
+* Doing top 6 payout for a singles bracket
+* $5 dollar entry
+* 5th place should at least get $5
+
+::: tip
+If you are TOing, this should be done and ready before your bracket hits top 8 so people don't have to wait for their money.
+:::
+
+Remember that you might have to account for not having exact change for these payouts if you are doing this the day of the event. 
+You will probably have to round up/down the final amounts to make it easier to distribute.
+
+It is recommended that you have a cashbox to keep the money safe and to use envelopes to distribute payouts for larger events.
+
+This system works for both singles and doubles/crews. 
+
+::: warning
+Remember that one team/crew is one entrant to keep things simple.
+:::
+
+
+
 ## Top 3 Payout
 Recommended for 20 entrants or less
 
@@ -60,3 +89,6 @@ Possibly used for Arcadians
 | 13th            | 4                |  1%      |
 
 
+## Payout Calculator
+
+<PayoutCalc />
