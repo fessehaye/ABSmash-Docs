@@ -32,6 +32,10 @@ Username: [SSBUniversity](https://www.twitch.tv/ssbuniversity)
 
 Username: [SSBUniversity](https://www.facebook.com/ssbuniversity/)
 
+### Braacket Information 
+
+[Braacket](https://braacket.com/)
+
 ## Common Venues
 
 [King Edward Small Hall](http://www.kingedwardpark.org/hall-rentals/small-hall/)
@@ -75,6 +79,17 @@ Notes:
 
 [Montana](https://www.facebook.com/groups/310359889094549/)
 
+## Smash.gg Resources
 
+[Smash.gg](https://help.smash.gg/)
 
+[Smash.gg API](https://help.smash.gg/faq/misc/api-access)
+
+[Smash.gg Discord](https://discordservers.com/server/339548254704369677)
+
+## Other Links
+
+[Let's Run a Tournament! Tips on everything you need to know about TOing for Smash](https://ssbworld.com/blog/136/lets-run-a-tournament!-tips-on-everything-you-need-to-know-about-toing-for-smash)
+
+[The ABC's of tournament hosting](https://smashboards.com/threads/the-abcs-of-tournament-hosting.95636/)
 
