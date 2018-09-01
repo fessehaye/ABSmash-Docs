@@ -4,6 +4,8 @@
 
 ## Introduction
 
+Flying out players from other regions as long as you have the budget for it.
+
 ## Finding Players
 
 ## Communcating with Guests
@@ -35,8 +37,18 @@ Top players that have attended Alberta events in the recent years.
 
 ### Expressed Interest
 
-These are suggestions of players that either had plans to attend an alberta event or had expressed interest.
+These are suggestions of players that either:
 
-| Tag                 | Game          | Twitter/FB                                             |
-|:--------------------|:--------------|:-------------------------------------------------------|
-| Lucky (SOCAL)       | Melee/PM      |[@Legend0fLucky](https://twitter.com/Legend0fLucky)     |
+* Confirmed going to an event but had to cancel
+* Expressed interest in future events
+
+| Tag                  | Game          | Twitter/FB                                             |
+|:---------------------|:--------------|:-------------------------------------------------------|
+| Lucky (SOCAL)        | Melee/PM      |[@Legend0fLucky](https://twitter.com/Legend0fLucky)     |
+| Cpt. Faceroll (SOCAL)| Melee/PM      |[@ssbm_faceroll](https://twitter.com/ssbm_faceroll)     |
+| Rich Brown (SOCAL)   | Smash 4       |[@_richbrown](https://twitter.com/_richbrown)           |
+| Zenyou (SOCAL)       | Smash 4       |[@zenyoux](https://twitter.com/zenyoux)                 |
+| Mistake (ON)         | Smash 4       |[@mistakezss](https://twitter.com/mistakezss)           |
+| Pugwest (MA)         | Smash 4       |[@Pugwest](https://twitter.com/Pugwest)                 |
+| Slox (MA)            | Melee         |[@crouchcancel](https://twitter.com/crouchcancel)       |
+| Ryuga (MI)           | Smash 4       |[@trueRyuga](https://twitter.com/trueRyuga)             |
