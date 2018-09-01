@@ -56,10 +56,10 @@
     </form>
   </div>
   <div class="payout__result">
-    <table>
+    <table class="desktop-only">
       <thead>
         <tr>
-          <th>Placement</th>
+          <th>Place</th>
           <th style="text-align: center;">Quantity</th>
           <th style="text-align: right;">Percent</th>
           <th style="text-align: right;">Payment</th>
@@ -74,12 +74,33 @@
         </tr>
       </tbody>
     </table>
+
+    <table v-for="place in payout[spread]" class="mobile-only">
+      <tbody>
+        <tr>
+          <td><b>Place</b></td>
+          <td>{{place.placement}}</td>
+        </tr>
+        <tr>
+          <td><b>Quantity</b></td>
+          <td>{{place.quantity}}</td>
+        </tr>
+        <tr>
+          <td><b>Percent</b></td>
+          <td>{{place.payment | percent }}</td>
+        </tr>
+        <tr>
+          <td><b>Payment</b></td>
+          <td>{{ paySplit(place.payment) | currency }}</td>
+        </tr>
+      </tbody>
+    </table>
     
     <ul class="payout__stats">
       <li v-show="lowPay"style="color:#F44336;font-weight:700;">Current Payout is too low, try a different spread</b></li>
       <li>Make sure you double check final amounts!</li>
       <li>Total Pot is <b>{{ pot | currency }}</b></li>
-      <li>Money Left Over to distribute <b>{{ leftover() | currency }}</b></li>
+      <li v-show="leftover() > 0" >Money Left Over to distribute <b>{{ leftover() | currency }}</b></li>
     </ul>
   </div>
 </div>
@@ -161,7 +182,7 @@ export default {
   watch: {
     entrants: function (val) {
       this.lowPay = false;
-      this.entrants = val < 1 ? 1 : parseInt(val);
+      this.entrants = val < 0 ? 0 : parseInt(val);
     },
     
     fee: function (val) {
@@ -235,6 +256,20 @@ $color--text: #757575;
     background:$color--grey;
     padding: 1em;
     border-radius:5px;
+  }
+
+  .mobile-only {
+    display:none;
+  }
+
+  @media only screen and (max-width: 450px) {
+      .mobile-only {
+        display:block;
+      }
+
+      .desktop-only {
+        display:none;
+      }
   }
 
   &__result {
