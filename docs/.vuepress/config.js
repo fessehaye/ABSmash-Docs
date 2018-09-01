@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Edmonton Smash Resources',
+    title: 'Smash Resources',
     description: 'Shared Resources for all TOing and community affairs',
     serviceWorker: true,
     head: [
