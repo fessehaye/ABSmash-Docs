@@ -12,12 +12,6 @@ Example:
 * $5 dollar entry
 * 5th place should at least get $5
 
-::: tip
-If you are TOing, this should be done and ready before your bracket hits top 8 so people don't have to wait for their money.
-:::
-
-Remember that you might have to account for not having exact change for these payouts if you are doing this the day of the event. 
-You will probably have to round up/down the final amounts to make it easier to distribute.
 
 It is recommended that you have a cashbox to keep the money safe and to use envelopes to distribute payouts for larger events.
 
@@ -27,7 +21,31 @@ This system works for both singles and doubles/crews.
 Remember that one team/crew is one entrant to keep things simple.
 :::
 
+## Delivery
 
+So there are two ways to payout players:
+
+1. Onsite Payout
+
+The most common choice especially for locals and smaller events. Remember that you might have to account for not having exact change for these payouts if you are doing this the day of the event. You will probably have to round up/down the final amounts to make it easier to distribute. Remember to have a writing tool and envelopes to seperate the money for each places. 
+
+::: tip
+If you are TOing, this should be done and ready before your bracket hits top 8 so people don't have to wait for their money.
+:::
+
+2. Payment After Event
+
+The option you might choose if you have the following situations:
+
+* Did online registration through smash.gg (Using Paypal or Stripe).
+* Waiting for pot bonus money from external source.
+* If you do a tournament in an enviornment that might label the event as gambling (example NAIT)
+
+If this is the case, please pay attention to how much money is in the pot and plan ahead to how to split the total. Make sure that you exchange contact information with any of the top 8 players per event because not everyone has a facebook account or is on your friend list. Make sure you have or have someone with experience with [Paypal](https://www.paypal.com/ca/home) or [Etransfer](http://interac.ca/en/interac-e-transfer-consumer.html).
+
+::: warning
+If the player is not from Canada, they are not likely familar with Etransfer and it is best to deal with the whole situation with Paypal.
+:::
 
 ## Top 3 Payout
 Recommended for 20 entrants or less
