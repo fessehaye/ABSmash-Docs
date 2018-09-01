@@ -33,7 +33,12 @@ module.exports = {
 			{
 				title: 'Guides',
 				children: [
-					'/Guides/',
+                    '/Guides/',
+                    '/Guides/budget',
+					'/Guides/guests',
+					'/Guides/playerban',
+                    '/Guides/timeline',
+                    '/Guides/posting',
 				]
 			},
 			'/Resources/',
