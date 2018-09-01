@@ -11,14 +11,14 @@
       </div>
       
       <div class="payout__field">
-        <label>Fees</label>
+        <label>Fees ($)</label>
         <div class="payout__input">
           <input type="number" placeholder="" v-model="fee">
         </div>
       </div>
       
       <div class="payout__field">
-        <label>Pot Bonus</label>
+        <label>Pot Bonus ($)</label>
         <div class="payout__input">
           <input type="number" placeholder="" v-model="bonus">
         </div>
