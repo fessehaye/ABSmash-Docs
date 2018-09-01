@@ -204,7 +204,7 @@ export default {
           let left = p - Math.floor(p / this.rounded) * this.rounded;
           return curr + left 
         },0
-      );
+      ).toFixed(2);
     },
     
   }
