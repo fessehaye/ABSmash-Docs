@@ -21,12 +21,16 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-    
     .timeline {
-        padding: 2em 0;
+        margin-top: 3em;
+        margin-bottom: 3em;
         position: relative;
+        padding: 2em 0;
+        width: 90%;
         max-width: 1170px;
         margin: 0 auto;
+
+
         &::before {
             content: '';
             position: absolute;
