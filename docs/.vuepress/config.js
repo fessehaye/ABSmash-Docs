@@ -43,7 +43,10 @@ module.exports = {
 			},
 			'/Resources/',
 			'/'
-		],
+        ],
+        serviceWorker: {
+            updatePopup: true
+        },
         lastUpdated: 'Last Updated',
         
     }
