@@ -6,7 +6,7 @@ These is just general knowledge past down from previous organizers from our comm
 
 ## Table Of Contents
 
-- [UofA Group Timelines](./timelime.md)
+- [UofA Group Timelines](./timeline.md)
 - [Budgets for larger events](./budget.md)
 - [Flying Out Guests](./guests.md)
 - [Posting Guidelines](./posting.md)
