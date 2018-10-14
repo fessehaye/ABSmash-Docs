@@ -52,9 +52,9 @@ Recommended for 20 entrants or less
 
 | Placement       | Quantity         | Payment  |
 | --------------- |:----------------:| --------:|
-| 1st             | 1                |  50%     |
+| 1st             | 1                |  60%     |
 | 2nd             | 1                |  30%     |
-| 3rd             | 1                |  20%     |
+| 3rd             | 1                |  10%     |
 
 ## Top 6 Payout
 Recommended for 20 to 40 entrants

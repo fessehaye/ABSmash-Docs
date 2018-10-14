@@ -120,9 +120,9 @@ export default {
       lowPay:false,
       payout: {
         3: [
-          {placement:"1st",quantity:1,payment:0.5},
+          {placement:"1st",quantity:1,payment:0.6},
           {placement:"2nd",quantity:1,payment:0.3},
-          {placement:"3rd",quantity:1,payment:0.2},
+          {placement:"3rd",quantity:1,payment:0.1},
         ],
         6:[
           {placement:"1st",quantity:1,payment:0.4},
