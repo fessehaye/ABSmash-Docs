@@ -1,5 +1,5 @@
 ---
-title: General Guide for Tournament Organizing
+title: Table Of Contents
 ---
 
 # General Guide for Tournament Organizing

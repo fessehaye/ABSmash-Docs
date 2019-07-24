@@ -1,3 +1,7 @@
+---
+title: Table Of Contents
+---
+
 # Guides
 
 Section dedicated for Executive related manners and larger event planning.
