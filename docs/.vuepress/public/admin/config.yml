@@ -18,11 +18,9 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "resources"
     label: "Resources"
-    folder: "docs/Resources"
-    create: true
+    file: "docs/Resources/README.md"
     slug: "{{slug}}"
     fields:
-      - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "toing"
     label: "TOing"
