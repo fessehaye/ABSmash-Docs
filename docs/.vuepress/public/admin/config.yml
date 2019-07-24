@@ -1,12 +1,12 @@
 backend:
   name: git-gateway
   branch: master
- 
+
 publish_mode: editorial_workflow
- 
+
 media_folder: "docs/.vuepress/public/upload"
 public_folder: "/upload"
- 
+
 collections:
   - name: "guides"
     label: "Guides"
@@ -14,13 +14,22 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
   - name: "toing"
     label: "TOing"
     folder: "docs/TOing"
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "resources"
+    label: "Resources"
+    files:
+      - label: "Home Page"
+        name: "home"
+        file: "docs/Resources/README.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }

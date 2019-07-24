@@ -1,3 +1,7 @@
+---
+title: Resources
+---
+
 # Resources
 
 [[toc]]
@@ -32,7 +36,7 @@ Username: [SSBUniversity](https://www.twitch.tv/ssbuniversity)
 
 Username: [SSBUniversity](https://www.facebook.com/ssbuniversity/)
 
-### Braacket Information 
+### Braacket Information
 
 [Braacket](https://braacket.com/)
 
@@ -42,26 +46,28 @@ Username: [SSBUniversity](https://www.facebook.com/ssbuniversity/)
 
 Address: 8008 - 81 Street NW (East Entrance)
 
-Cost: $50/Event or Day
+Cost: \$50/Event or Day
 
 Contact: Dianne @ 780-910-7406
 
 Notes:
-* No Internet Available
-* Book in advance, venue gets booked quick
-* Use for locals or small events
+
+- No Internet Available
+- Book in advance, venue gets booked quick
+- Use for locals or small events
 
 [King Edward Large Hall](http://www.kingedwardpark.org/hall-rentals/large-hall/)
 
 Address: 7708 - 85 Street NW
 
-Cost: $400/Event or Day
+Cost: \$400/Event or Day
 
 Contact: Christopher @ 780-469-2468
 
 Notes:
-* Use for regionals/majors
-* No one has used for a tourney yet
+
+- Use for regionals/majors
+- No one has used for a tourney yet
 
 ## Calendar
 
@@ -92,4 +98,3 @@ Notes:
 [Let's Run a Tournament! Tips on everything you need to know about TOing for Smash](https://ssbworld.com/blog/136/lets-run-a-tournament!-tips-on-everything-you-need-to-know-about-toing-for-smash)
 
 [The ABC's of tournament hosting](https://smashboards.com/threads/the-abcs-of-tournament-hosting.95636/)
-
