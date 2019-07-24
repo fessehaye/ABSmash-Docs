@@ -9,7 +9,7 @@ title: Resources
 ## Account Information
 
 ::: warning
-To get access/passwords for any of the accounts mentioned contact a community leader like Ron, Ben or Simon.
+To get access/passwords for any of the accounts mentioned contact a community leader like Ron or Simon.
 :::
 
 ::: tip
