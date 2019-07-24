@@ -16,12 +16,6 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "resources"
-    label: "Resources"
-    file: "docs/Resources/README.md"
-    slug: "{{slug}}"
-    fields:
-      - {label: "Body", name: "body", widget: "markdown"}
   - name: "toing"
     label: "TOing"
     folder: "docs/TOing"
