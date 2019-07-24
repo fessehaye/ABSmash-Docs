@@ -1,4 +1,5 @@
 ---
+title: UofA Timelines
 timeline:
 -   title: Find 5 Executives that are current university of alberta students.
     deadline: July-August

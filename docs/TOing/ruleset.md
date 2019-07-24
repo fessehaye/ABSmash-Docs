@@ -1,3 +1,7 @@
+---
+title: Ruleset
+---
+
 # Ruleset
 
 ## Melee Ruleset

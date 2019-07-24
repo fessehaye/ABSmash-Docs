@@ -1,6 +1,7 @@
 ---
 title: General Guide for Tournament Organizing
 ---
+
 # General Guide for Tournament Organizing
 
 Designed to help get started on running tournament events.

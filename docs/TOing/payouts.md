@@ -1,3 +1,7 @@
+---
+title: Payouts
+---
+
 # Payouts
 
 [[toc]]

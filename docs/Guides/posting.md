@@ -1,3 +1,7 @@
+---
+title: Posting Guidelines
+---
+
 # Posting Guidelines for Social Media
 
 1. **NO SPAM**

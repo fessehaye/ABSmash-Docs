@@ -1,3 +1,7 @@
+---
+title: Running Tournaments
+---
+
 # Running Tournaments
 
 ## Introduction & TO Responsibilities

@@ -1,3 +1,7 @@
+---
+title: Venue Space & Planning
+---
+
 # Venue Space & Planning
 
 Venue space and resource allocation is also a major item to consider for tournaments.  You want to allow people to be able to move and sit properly.  As such you need to consider what and where games are being played.  An example would be segregating games so it’s easier to manage or how much space an event would need (e.g. doubles needing space for 4 people, RR pools needs standing room to swap players).  Wire management needs to be also noted to prevent messes with the potential of pulling a whole line of setups down.

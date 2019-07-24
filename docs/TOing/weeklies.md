@@ -1,3 +1,7 @@
+---
+title: Weeklies
+---
+
 # Dailies/Weeklies Processes
 
 ## Registration 
