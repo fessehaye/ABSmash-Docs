@@ -141,12 +141,12 @@ export default {
         ],
         12:[
           {placement:"1st",quantity:1,payment:0.3},
-          {placement:"2nd",quantity:1,payment:0.25},
-          {placement:"3rd",quantity:1,payment:0.10},
-          {placement:"4th",quantity:1,payment:0.08},
-          {placement:"5th",quantity:2,payment:0.06},
-          {placement:"7th",quantity:2,payment:0.03},
-          {placement:"9th",quantity:4,payment:0.01},
+          {placement:"2nd",quantity:1,payment:0.20},
+          {placement:"3rd",quantity:1,payment:0.11},
+          {placement:"4th",quantity:1,payment:0.09},
+          {placement:"5th",quantity:2,payment:0.07},
+          {placement:"7th",quantity:2,payment:0.04},
+          {placement:"9th",quantity:4,payment:0.02},
         ],
         16:[
           {placement:"1st",quantity:1,payment:0.3},
@@ -221,11 +221,12 @@ export default {
       }
       return this.payout[this.spread].reduce(
         (curr,prev) => {
-          let p = (this.pot * prev.payment).toFixed(2);
-          let left = p - Math.floor(p / this.rounded) * this.rounded;
+          let unround = Math.round(this.pot * prev.payment * 1e2) / 1e2;
+          let rounded = Math.round(Math.floor((this.pot * prev.payment) / this.rounded) * this.rounded *1e2 ) / 1e2;
+          let left = Math.round((unround - rounded) * prev.quantity * 1e2) / 1e2;
           return curr + left 
         },0
-      ).toFixed(2);
+      )
     },
     
   }

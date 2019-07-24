@@ -85,12 +85,12 @@ Recommended for 100+ entrants
 | Placement       | Quantity         | Payment  |
 | --------------- |:----------------:| --------:|
 | 1st             | 1                |  30%     |
-| 2nd             | 1                |  25%     |
-| 3rd             | 1                |  10%     |
-| 4th             | 1                |  8%      |
-| 5th             | 2                |  6%      |
-| 7th             | 2                |  3%      |
-| 9th             | 4                |  1%      |
+| 2nd             | 1                |  20%     |
+| 3rd             | 1                |  11%     |
+| 4th             | 1                |  9%      |
+| 5th             | 2                |  7%      |
+| 7th             | 2                |  4%      |
+| 9th             | 4                |  2%      |
 
 ## Top 16 Payout
 Possibly used for Arcadians
