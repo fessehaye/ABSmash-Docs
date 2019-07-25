@@ -50,6 +50,7 @@ module.exports = {
       "@vuepress/active-header-links",
       "vuepress-plugin-container",
       "@vuepress/last-updated",
+      "@vuepress/medium-zoom",
       [
         "@vuepress/pwa",
         {
