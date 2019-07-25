@@ -25,7 +25,8 @@ module.exports = {
     nav: [
       { text: "TOing", link: "/TOing/" },
       { text: "Guides", link: "/Guides/" },
-      { text: "Resources", link: "/Resources/" }
+      { text: "Resources", link: "/Resources/" },
+      { text: "Meetings", link: "/meetings/" }
     ],
     sidebar: [
       {
@@ -35,6 +36,10 @@ module.exports = {
       {
         title: "Guides",
         children: getChildren("./docs/Guides/", "/Guides/")
+      },
+      {
+        title: "Meetings",
+        children: getChildren("./docs/meetings/", "/meetings/")
       },
       "/Resources/",
       "/"
