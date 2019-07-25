@@ -3,7 +3,7 @@ var getChildren = require("./sidebar");
 module.exports = {
   title: "Smash Resources",
   description: "Shared Resources for all TOing and community affairs",
-  serviceWorker: true,
+  theme: "@vuepress/theme-default",
   head: [
     ["link", { rel: "icon", href: "/hero.png" }],
     ["link", { rel: "manifest", href: "/manifest.json" }],
@@ -44,9 +44,20 @@ module.exports = {
       "/Resources/",
       "/"
     ],
-    serviceWorker: {
-      updatePopup: true
-    },
+    plugins: [
+      "@vuepress/back-to-top",
+      "@vuepress/nprogress",
+      "@vuepress/active-header-links",
+      "vuepress-plugin-container",
+      "@vuepress/last-updated",
+      [
+        "@vuepress/pwa",
+        {
+          serviceWorker: true,
+          updatePopup: true
+        }
+      ]
+    ],
     lastUpdated: "Last Updated"
   }
 };
