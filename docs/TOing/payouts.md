@@ -51,6 +51,24 @@ If this is the case, please pay attention to how much money is in the pot and pl
 If the player is not from Canada, they are not likely familar with Etransfer and it is best to deal with the whole situation with Paypal.
 :::
 
+## Pot Bonus
+
+Sometimes if you are collaborating with another organization or if you are under-budget for your event you will have the opportunity to add a pot bonus for specific tournament events.
+ 
+A pot bonus is just a fixed amount of money that you add to the existing pot of an individual event. Usually applied to singles (1v1) events. I personally treat a pot bonus like I am adding X amount of players to the bracket when applying payouts.
+
+The pot bonus must be applied to the payouts before you pay players out. You can use the payout calculator below if you need help figuring out exact amounts.
+
+::: tip
+Pot Bonuses are not a substitute of making your event higher quality. A pot bonus only affects a small percentage of your entrants. There are many solutions to give all participants a better experience and you are responsible for experimenting.
+:::
+
+Example:
+
+1. Melee Singles has 30 entrants at a 10$ event. (300$ Pot Total)
+2. My Fake Sponsor has given me a $200 pot bonus to add to melee singles. (equiv of 20 people being added to the bracket).
+3. The pot is now $500 and I have the option to pay out top 8 instead top 6. (Look at payout charts)
+
 ## Top 3 Payout
 Recommended for 20 entrants or less
 
