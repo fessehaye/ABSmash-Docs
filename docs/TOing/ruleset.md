@@ -1,14 +1,53 @@
 ---
-title: Ruleset
+title: Recommended Ruleset
 ---
 
-# Ruleset
+# Recommended Ruleset
 
 ## Melee Ruleset
 
 We will be running the standard MIOM recommended ruleset, with the addition of UCF and the allowance of B0XX/Smashbox-like controllers.
 
 [Reference link](http://www.meleeitonme.com/wp-content/uploads/Melee-Recommended-Ruleset-1.pdf)
+
+Update a few additions:
+* Wobbling is banned. 8 hit limit with forfeit of a stock if they go over the limit.
+* Final Destination is a counterpick stage.
+* Pokemon Stadium is frozen and is a neutral stage.
+* Ledge Grab Limit is 60 and is only applied if the game goes to time.
+
+## Ultimate Ruleset
+
+3 Stocks, 7 Minutes.
+
+Items and pause are disabled.
+
+Accidental pausing results in a forfeit of a stock.
+
+Players strike (P1, P2, P2, P1) or agree on the first stage.
+
+Loser selects stage, winner selects character, loser selects character.
+
+You may not choose any stage you previously won on, unless agreed upon.
+
+You may not play on a stage that is not on the legal stage list.
+
+All Mii Fighters and Custom Moves are legal.
+
+
+#### Starter
+
+* Battlefield
+* Final Destination
+* Lylat Cruise
+* Smashville
+* Pokemon Stadium 2
+
+#### Counterpick
+
+* Kalos
+* Town & City 
+* Yoshi’s Story
 
 ## Smash 4 Ruleset
 
