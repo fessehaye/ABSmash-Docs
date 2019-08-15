@@ -24,7 +24,8 @@ module.exports = {
     docsDir: "docs",
     nav: [
       { text: "TOing", link: "/TOing/" },
-      { text: "Guides", link: "/Guides/" },
+      { text: "YEG", link: "/YEG/" },
+      { text: "YYC", link: "/YYC/" },
       { text: "Resources", link: "/Resources/" },
       { text: "Meetings", link: "/meetings/" }
     ],
@@ -34,8 +35,12 @@ module.exports = {
         children: getChildren("./docs/TOing/", "/TOing/")
       },
       {
-        title: "Guides",
-        children: getChildren("./docs/Guides/", "/Guides/")
+        title: "Edmonton",
+        children: getChildren("./docs/YEG/", "/YEG/")
+      },
+      {
+        title: "Calgary",
+        children: getChildren("./docs/YYC/", "/YYC/")
       },
       {
         title: "Meetings",
