@@ -2,7 +2,7 @@
 title: Table Of Contents
 ---
 
-# Guides
+# Calgary Guides
 
 Section dedicated for Executive related manners and larger event planning.
 

@@ -11,9 +11,17 @@ media_folder: "docs/.vuepress/public/upload"
 public_folder: "/upload"
 
 collections:
-  - name: "guides"
-    label: "Guides"
-    folder: "docs/Guides"
+  - name: "edmonton"
+    label: "Edmonton"
+    folder: "docs/YEG"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "calgary"
+    label: "Edmonton"
+    folder: "docs/YYC"
     create: true
     slug: "{{slug}}"
     fields:
@@ -28,7 +36,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "meetings"
-    label: "Meeting Minutes"
+    label: "Edmonton Meeting"
     folder: "docs/meetings"
     create: true
     slug: "{{slug}}"
