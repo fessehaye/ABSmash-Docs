@@ -1,5 +1,5 @@
 ---
-title: august 13 meeting
+title: August 13 meeting
 ---
 ONE DAY EVENT
 
