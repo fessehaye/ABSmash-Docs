@@ -4,7 +4,8 @@ title: Responsibilities
 # Executive/Admin Responsibilities
 
 ## President
-* Room Bookings
+* Room Bookings (1hr every week) 
+  * helps with this example
 * Dealing Storage
 * Election
 * Club Renewal
