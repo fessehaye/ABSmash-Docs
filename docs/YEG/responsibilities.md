@@ -18,6 +18,7 @@ title: Responsibilities
 * Applying for grants
 * Payments/Paypal/Banking
 * Flying out players
+* Results Graphics
 
 ## VP Publicity
 * Smash.gg Bracket
@@ -45,7 +46,6 @@ title: Responsibilities
 * Purchasing Equipment
 * Bearsden
 * ELO Rankings
-* Results Graphics
 * Splitting VODS
 * Organzing Event Calendar
 * Streaming
