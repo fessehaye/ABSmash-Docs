@@ -7,7 +7,7 @@ title: Responsibilities
 
 ## President
 * Room Bookings (5 hrs/year) 
-  * helps with this example
+* helps with this example
 * Dealing Storage
 * Election
 * Club Renewal
