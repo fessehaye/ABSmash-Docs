@@ -15,12 +15,12 @@ title: Responsibilities
 * Maintaining documentation
 
 ## VP Finance
-* Creating Budgets
-* Graphics & logos
-* Posters
-* Applying for grants
-* Payments/Paypal/Banking
-* Flying out players
+* Creating Budgets [1 week/semester]
+* Graphics & logos [2+ hrs/event]
+* Posters [2+ hrs/event]
+* Applying for grants [12+ hrs/event]
+* Payments/Paypal/Banking [4 hrs/event]
+* Flying out players [5 hrs/event]
 * Results Graphics [2 hrs/week]
 
 ## VP Publicity
