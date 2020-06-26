@@ -11,13 +11,17 @@ module.exports = {
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     [
       "meta",
-      { name: "apple-mobile-web-app-status-bar-style", content: "black" }
+      { name: "apple-mobile-web-app-status-bar-style", content: "black" },
+    ],
+    [
+      "meta",
+      { name: "apple-mobile-web-app-status-bar-style", content: "black" },
     ],
     [
       "link",
-      { rel: "apple-touch-icon", href: `/icons/apple-touch-icon-152x152.png` }
+      { rel: "apple-touch-icon", href: `/icons/apple-touch-icon-152x152.png` },
     ],
-    ["meta", { name: "msapplication-TileColor", content: "#000000" }]
+    ["meta", { name: "msapplication-TileColor", content: "#000000" }],
   ],
   ga: "UA-11825324-2", // 'UA-124245419-1',
   themeConfig: {
@@ -27,27 +31,27 @@ module.exports = {
       { text: "YEG", link: "/YEG/" },
       { text: "YYC", link: "/YYC/" },
       { text: "Resources", link: "/Resources/" },
-      { text: "Meetings", link: "/meetings/" }
+      { text: "Meetings", link: "/meetings/" },
     ],
     sidebar: [
       {
         title: "Tournament Organizing",
-        children: getChildren("./docs/TOing/", "/TOing/")
+        children: getChildren("./docs/TOing/", "/TOing/"),
       },
       {
         title: "Edmonton",
-        children: getChildren("./docs/YEG/", "/YEG/")
+        children: getChildren("./docs/YEG/", "/YEG/"),
       },
       {
         title: "Calgary",
-        children: getChildren("./docs/YYC/", "/YYC/")
+        children: getChildren("./docs/YYC/", "/YYC/"),
       },
       {
         title: "Meetings",
-        children: getChildren("./docs/meetings/", "/meetings/")
+        children: getChildren("./docs/meetings/", "/meetings/"),
       },
       "/Resources/",
-      "/"
+      "/",
     ],
     plugins: [
       "@vuepress/back-to-top",
@@ -60,10 +64,10 @@ module.exports = {
         "@vuepress/pwa",
         {
           serviceWorker: true,
-          updatePopup: true
-        }
-      ]
+          updatePopup: true,
+        },
+      ],
     ],
-    lastUpdated: "Last Updated"
-  }
+    lastUpdated: "Last Updated",
+  },
 };
